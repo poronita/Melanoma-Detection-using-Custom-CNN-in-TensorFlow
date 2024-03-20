@@ -15,12 +15,6 @@
 ## Objective
 By leveraging deep learning techniques and custom CNN models, this project aims to contribute to the early detection and diagnosis of melanoma, ultimately improving patient outcomes and reducing mortality rates associated with this deadly form of cancer.
 
-## Data
-- Dataset: [Skin Cancer Dataset](https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view?usp=sharing)
-  - The dataset consists of 2357 images of malignant and benign oncological diseases, sourced from the International Skin Imaging Collaboration (ISIC). Images are sorted into 9 subdirectories corresponding to different types of skin cancer.
-  - Format: Images in JPG format
-  - Usage: Used for training and testing the CNN model for melanoma detection.
-
 ## Project Pipeline
 1. **Data Reading/Data Understanding:**
    - Define the paths for train and test images from the dataset.
