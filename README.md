@@ -58,13 +58,12 @@ By leveraging deep learning techniques and custom CNN models, this project aims 
 - The final model demonstrated robustness in detecting melanoma, contributing to early diagnosis and improved patient outcomes.
 
 ## Technologies Used
-- TensorFlow - version 2.5
-  TensorFlow is an open-source machine learning framework developed by Google. It provides tools for building and training machine learning models, including deep learning models like neural networks.
-- Matplotlib - version 3.4: Matplotlib is a plotting library for Python. It provides a MATLAB-like interface for creating static, interactive, and animated visualizations in Python.
-- NumPy - version 1.19: NumPy is a library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
-- PIL (Python Imaging Library): PIL is a library for opening, manipulating, and saving many different image file formats. It is used for image processing tasks such as resizing, cropping, and converting between different image formats.
-- Pandas - version 1.2: Pandas is a powerful library for data manipulation and analysis in Python. It provides data structures and functions to efficiently handle structured data, including importing and exporting data from various file formats, cleaning, transforming, and aggregating data, and performing statistical analysis.
-- Augmentor - version 0.2: Augmentor is a Python library for data augmentation. It provides tools for generating augmented images from existing images, which can be useful for increasing the size and diversity of training datasets, improving model generalization, and addressing issues such as overfitting.
+- TensorFlow - version 2.5  
+- Matplotlib - version 3.4  
+- NumPy - version 1.19  
+- PIL (Python Imaging Library)  
+- Pandas - version 1.2  
+- Augmentor - version 0.2  
 
 
 ## Acknowledgements
