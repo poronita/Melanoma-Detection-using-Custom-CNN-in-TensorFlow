@@ -12,6 +12,9 @@
 - The business problem addressed is the early detection of melanoma, which is crucial for improving prognosis and reducing mortality rates associated with skin cancer.
 - The dataset consists of 2357 images of malignant and benign oncological diseases, sourced from the International Skin Imaging Collaboration (ISIC).
 
+## Objective
+By leveraging deep learning techniques and custom CNN models, this project aims to contribute to the early detection and diagnosis of melanoma, ultimately improving patient outcomes and reducing mortality rates associated with this deadly form of cancer.
+
 ## Project Pipeline
 1. **Data Reading/Data Understanding:**
    - Define the paths for train and test images from the dataset.
