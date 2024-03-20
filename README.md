@@ -29,4 +29,5 @@
 - Portions of the code and methodology were adapted from various TensorFlow tutorials and documentation.
 
 ## Contact
-Created by (https://github.com/poronita/) - feel free to contact me!
+Created by [@poronita](https://github.com/poronita/) - feel free to contact me!
+
